@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="datacompass-service" />
+        <module name="datacompass-api (1)" />
+        <module name="datacompass-commons" />
+        <module name="datacompass-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="datacompass" target="1.5" />
+      <module name="datacompass-api" target="11" />
+      <module name="datacompass-api (1)" target="1.5" />
+      <module name="datacompass-commons" target="11" />
+      <module name="datacompass-service" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="datacompass-api" options="" />
+      <module name="datacompass-commons" options="" />
+      <module name="datacompass-service" options="" />
+    </option>
+  </component>
+</project>

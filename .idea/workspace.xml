@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9ef02bf-92ec-48a1-9f59-9436a00e3653" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SwYZ4lxIFCCgAvZqEoyc5b7BUy" />
+  <component name="PropertiesComponent">
+    <property name="last_directory_selection" value="$PROJECT_DIR$/datacompass-service/src/main/java/com/datacompass" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/datacompass-service/src/main/java/com/datacompass/utils" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.datacompass" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.datacompass.user" />
+      <recent name="com.datacompass.security" />
+      <recent name="com.datacompass.exception" />
+      <recent name="com.datacompass.enums.errorCode" />
+      <recent name="com.datacompass.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\DataCompass\datacompass-back\datacompass-service\src\main\java\com\datacompass\utils" />
+      <recent name="C:\dev\DataCompass\datacompass-back\datacompass-service\src\main\java\com\datacompass\user" />
+      <recent name="C:\dev\DataCompass\datacompass-back\datacompass-api\src\main\java\com\datacompass\entity" />
+      <recent name="C:\dev\DataCompass\datacompass-back\datacompass-commons\src\main\java\com\datacompass\enums" />
+      <recent name="C:\dev\DataCompass\datacompass-back\datacompass-service\src\main\java\com\datacompass\exception" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Start" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.datacompass.DataCompassManagementApplication" />
+      <module name="datacompass-service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9ef02bf-92ec-48a1-9f59-9436a00e3653" name="Default Changelist" comment="" />
+      <created>1572476177117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572476177117</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datacompass-service/src/main/java/com/datacompass/config/SpringDataConfig.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datacompass-service/src/main/java/com/datacompass/config/SpringDataConfig.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/datacompass-service/src/main/java/com/datacompass/config/SpringDataConfig.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
